@@ -39,10 +39,14 @@ Information flow control label.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:208](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L208)
 =======
 [label.ts:208](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L208)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:208](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L208)
+>>>>>>> 3133aa9 (new modification)
 
 ## Properties
 
@@ -53,10 +57,14 @@ Information flow control label.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:201](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L201)
 =======
 [label.ts:201](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L201)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:201](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L201)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -67,10 +75,14 @@ ___
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:202](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L202)
 =======
 [label.ts:202](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L202)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:202](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L202)
+>>>>>>> 3133aa9 (new modification)
 
 ## Methods
 
@@ -96,10 +108,14 @@ true if the label can flow to the destination label
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:297](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L297)
 =======
 [label.ts:297](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L297)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:297](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L297)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -124,10 +140,14 @@ true if the labels are equal
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:283](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L283)
 =======
 [label.ts:283](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L283)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:283](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L283)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -146,10 +166,14 @@ human-readable string
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:312](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L312)
 =======
 [label.ts:312](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L312)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:312](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L312)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -175,10 +199,14 @@ the passed
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:248](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L248)
 =======
 [label.ts:248](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L248)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:248](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L248)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -204,10 +232,14 @@ the passed
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:229](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L229)
 =======
 [label.ts:229](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L229)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:229](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L229)
+>>>>>>> 3133aa9 (new modification)
 
 ___
 
@@ -236,7 +268,11 @@ Might return empty lists if there are no defined label components.
 #### Defined in
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [label.ts:262](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L262)
 =======
 [label.ts:262](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L262)
 >>>>>>> 102f6f2 (generated docs with TSDoc command)
+=======
+[label.ts:262](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L262)
+>>>>>>> 3133aa9 (new modification)
