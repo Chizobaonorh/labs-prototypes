@@ -65,7 +65,11 @@ Acts as bridge between Breadboard and the generic graph validation code.
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:80](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L80)
+=======
+[validator.ts:80](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L80)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ## Properties
 
@@ -75,7 +79,11 @@ Acts as bridge between Breadboard and the generic graph validation code.
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:75](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L75)
+=======
+[validator.ts:75](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L75)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -85,7 +93,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:77](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L77)
+=======
+[validator.ts:77](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L77)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -95,7 +107,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:76](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L76)
+=======
+[validator.ts:76](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L76)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -105,7 +121,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:78](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L78)
+=======
+[validator.ts:78](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L78)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -115,7 +135,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:74](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L74)
+=======
+[validator.ts:74](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L74)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ## Methods
 
@@ -145,7 +169,11 @@ BreadboardValidator.addGraph
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:111](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L111)
+=======
+[validator.ts:111](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L111)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -167,7 +195,11 @@ Add a policy to validate graphs against.
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:101](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L101)
+=======
+[validator.ts:101](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L101)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -187,7 +219,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:153](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L153)
+=======
+[validator.ts:153](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L153)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -217,7 +253,11 @@ BreadboardValidator.getSubgraphValidator
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:143](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L143)
+=======
+[validator.ts:143](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L143)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -247,7 +287,11 @@ BreadboardValidator.getValidatorMetadata
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:125](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L125)
+=======
+[validator.ts:125](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L125)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -269,7 +313,11 @@ Insert a new graph into this graph.
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:165](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L165)
+=======
+[validator.ts:165](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L165)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -283,4 +331,8 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [validator.ts:320](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/validator.ts#L320)
+=======
+[validator.ts:320](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/validator.ts#L320)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)

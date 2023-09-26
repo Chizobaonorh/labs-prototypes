@@ -43,7 +43,11 @@ ed into the semi-lattice.
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:20](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L20)
+=======
+[label.ts:20](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L20)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ## Properties
 
@@ -53,7 +57,11 @@ ed into the semi-lattice.
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:12](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L12)
+=======
+[label.ts:12](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L12)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -63,7 +71,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:11](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L11)
+=======
+[label.ts:11](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L11)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -73,7 +85,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:13](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L13)
+=======
+[label.ts:13](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L13)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ## Methods
 
@@ -97,7 +113,11 @@ true if this label is above the other
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:48](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L48)
+=======
+[label.ts:48](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L48)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -121,7 +141,11 @@ true if this label is above the other
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:32](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L32)
+=======
+[label.ts:32](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L32)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -146,7 +170,11 @@ Returns undefined for an empty list.
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:97](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L97)
+=======
+[label.ts:97](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L97)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
 
 ___
 
@@ -171,4 +199,8 @@ Returns undefined for an empty list.
 
 #### Defined in
 
+<<<<<<< HEAD
 [label.ts:64](https://github.com/Chizobaonorh/labs-prototypes/blob/102f6f2/seeds/graph-integrity/src/label.ts#L64)
+=======
+[label.ts:64](https://github.com/Chizobaonorh/labs-prototypes/blob/220f97e/seeds/graph-integrity/src/label.ts#L64)
+>>>>>>> 102f6f2 (generated docs with TSDoc command)
